@@ -1,6 +1,6 @@
-site_name: EGR314 Report Template
-site_url: https://embedded-systems-design.github.io/template_report
-repo_url: https://github.com/embedded-systems-design/template_report
+site_name: Mohammad Reports
+site_url: https://mohammadnsr1.github.io/Mohammad_Reports
+repo_url: https://github.com/mohammadnsr1/Mohammad_Reports
 edit_uri: edit/main/docs/
 theme:
   name: material
